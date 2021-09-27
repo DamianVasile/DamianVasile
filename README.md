@@ -12,7 +12,7 @@ accurate understanding of my capabilities.
 
 Languedges known at the moment:
 
-Java - Advanced
-Python - Medium
-R Studio - Advanced
+Java - Advanced /
+Python - Medium /
+R Studio - Advanced /
 C# - Medium
